@@ -1,0 +1,3 @@
+Based on strategy type (rolling update & RollingUpdateStrategy:  25% max unavailable, 25% max surge)
+=> maximu 25% od pods can be unavailable at any time
+=> Answer: b.) pods are upgraded few at a time 
